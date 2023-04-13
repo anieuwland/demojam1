@@ -144,7 +144,6 @@ while running:
     
     pg.display.flip()
     timer += 1.0/FPS
-    print(timer)
     counter += 1
     clock.tick(FPS)
 
